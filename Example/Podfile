@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '10.0'
+
+target 'OpenCV2_iOS_Example' do
+  pod 'OpenCV2_iOS', :path => '../'
+
+  target 'OpenCV2_iOS_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
