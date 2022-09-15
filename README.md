@@ -1,6 +1,6 @@
 # OpenCV2_iOS
 
-[![CI Status](https://img.shields.io/travis//OpenCV2_iOS.svg?style=flat)](https://travis-ci.org//OpenCV2_iOS)
+[![CI Status](https://img.shields.io/travis/kapil teotia/OpenCV2_iOS.svg?style=flat)](https://travis-ci.org/kapil teotia/OpenCV2_iOS)
 [![Version](https://img.shields.io/cocoapods/v/OpenCV2_iOS.svg?style=flat)](https://cocoapods.org/pods/OpenCV2_iOS)
 [![License](https://img.shields.io/cocoapods/l/OpenCV2_iOS.svg?style=flat)](https://cocoapods.org/pods/OpenCV2_iOS)
 [![Platform](https://img.shields.io/cocoapods/p/OpenCV2_iOS.svg?style=flat)](https://cocoapods.org/pods/OpenCV2_iOS)
@@ -22,7 +22,7 @@ pod 'OpenCV2_iOS'
 
 ## Author
 
-, 
+kapil teotia, kplteotia@gmail.com
 
 ## License
 

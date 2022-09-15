@@ -1,0 +1,22 @@
+{
+  "name": "OpenCV2_iOS",
+  "version": "0.1.0",
+  "summary": "A short description of OpenCV2_iOS.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/kapil teotia/OpenCV2_iOS",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "kapil teotia": "kplteotia@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/kapil teotia/OpenCV2_iOS.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "OpenCV2_iOS/Classes/**/*"
+}
